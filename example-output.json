@@ -1,0 +1,14 @@
+{
+  "synthetic_example": true,
+  "baseline_n": 12,
+  "after_n": 12,
+  "baseline_mean_min": 52.916666666666664,
+  "after_mean_min": 41.25,
+  "baseline_median_min": 52.5,
+  "after_median_min": 41.5,
+  "baseline_sample_sd_min": 3.1754264805429417,
+  "after_sample_sd_min": 1.764549903980152,
+  "difference_min": 11.666666666666664,
+  "relative_reduction_percent": 22.047244094488185,
+  "interpretation": "Descriptive comparison only; no proof of causality, sustained control or real savings."
+}

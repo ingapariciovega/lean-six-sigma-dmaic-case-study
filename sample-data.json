@@ -1,0 +1,33 @@
+{
+  "synthetic": true,
+  "units": "minutes",
+  "definition": "Last good unit of prior format to first accepted good unit of new format.",
+  "baseline": [
+    52,
+    49,
+    55,
+    51,
+    58,
+    50,
+    54,
+    53,
+    56,
+    48,
+    57,
+    52
+  ],
+  "illustrative_after": [
+    42,
+    40,
+    41,
+    43,
+    39,
+    42,
+    44,
+    40,
+    41,
+    43,
+    38,
+    42
+  ]
+}
